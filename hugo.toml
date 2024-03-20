@@ -1,0 +1,32 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+[[module.imports]]
+path = "github.com/willfaught/paige"
+
+[languages.en]
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "ホーム"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "activity"
+name = "活動"
+url = "/activity/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "class"
+name = "教室"
+url = "/class/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "tags"
+name = "タグ"
+url = "/tags/"
+weight = 30
