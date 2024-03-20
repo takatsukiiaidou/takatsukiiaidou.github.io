@@ -15,7 +15,7 @@ title: "高槻市居合道連盟"
 description: "高槻市における居合道の普及発展を推進する団体"
 ---
 <p>
-{{< paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="30rem" loading="eager" process="webp" src="https://takatsukiiaidou.github.io/images/80354be22f0228e02e4a4b4c63019a7f238c865fw1280j_7139029.jpg" width="100%" >}}
+{{< paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="30rem" loading="eager" process="webp" src="images/80354be22f0228e02e4a4b4c63019a7f238c865fw1280j_7139029.jpg" width="100%" >}}
 </p>
 
 <p class="display-5 fw-bold h3 text-center">居合道の魅力</p>
