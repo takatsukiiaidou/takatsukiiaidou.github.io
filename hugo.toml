@@ -1,10 +1,13 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-[[module.imports]]
-path = "github.com/willfaught/paige"
+baseurl = "https://example.com"
+copyright = "© 2024, 高槻市居合道連盟"
+enablerobotstxt = true
+languagecode = "ja-JP"
+paginate = 50
+titlecasestyle = "Go"
 
 [languages.en]
+title = "高槻市居合道連盟"
+description = "高槻市における居合道の普及発展を推進する団体"
 weight = 10
 
 [[languages.en.menu.main]]
@@ -23,10 +26,31 @@ weight = 20
 identifier = "class"
 name = "教室"
 url = "/class/"
-weight = 20
+weight = 30
 
 [[languages.en.menu.main]]
 identifier = "tags"
 name = "タグ"
 url = "/tags/"
-weight = 30
+weight = 40
+
+[[languages.en.menu.main]]
+identifier = "search"
+name = "検索"
+url = "/search/"
+weight = 100
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noclasses = false
+
+[markup.tableofcontents]
+endlevel = 6
+ordered = true
+startlevel = 2
+
+[[module.imports]]
+path = "github.com/willfaught/paige"
+

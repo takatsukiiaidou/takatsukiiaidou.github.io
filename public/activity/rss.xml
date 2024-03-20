@@ -27,6 +27,8 @@
 
 
 
+    
+
 
 
 
@@ -35,13 +37,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://localhost:1313/activity/rss.xml" rel="self" type="application/rss+xml"/>
 
         
             <copyright>© 2024, 高槻市居合道連盟</copyright>
         
 
-        <description>高槻市における居合道の普及発展を推進する団体</description>
+        <description>Recent content</description>
 
         
             <language>en</language>
@@ -51,11 +53,11 @@
             <lastBuildDate>Sun, 01 Jan 2023 00:00:00 UTC</lastBuildDate>
         
 
-        <link>http://localhost:1313/</link>
+        <link>http://localhost:1313/activity/</link>
 
         
 
-        <title>高槻市居合道連盟</title>
+        <title>活動 · 高槻市居合道連盟</title>
 
         
 

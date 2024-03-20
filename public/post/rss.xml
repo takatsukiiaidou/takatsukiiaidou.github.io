@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://localhost:1313/post/rss.xml" rel="self" type="application/rss+xml"/>
+
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en</language>
+        
+
+        
+            <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
+        
+
+        <link>http://localhost:1313/post/</link>
+
+        
+
+        <title>Posts · 高槻市居合道連盟</title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+                    
+                    
+                
+
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+]]></description>
+                
+
+                <guid  isPermaLink="false" >http://localhost:1313/post/sample/</guid>
+
+                
+                    <link>http://localhost:1313/post/sample/</link>
+                
+
+                
+                    <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                
+
+                
+                    <title>Paige</title>
+                
+            </item>
+        
+    </channel>
+</rss>
