@@ -1,7 +1,7 @@
 baseurl = "https://takatsukiiaidou.github.io/"
 copyright = "© 2024, 高槻市居合道連盟"
 enablerobotstxt = true
-languagecode = "ja-JP"
+languagecode = "en-us"
 paginate = 50
 titlecasestyle = "Go"
 
