@@ -3,6 +3,7 @@ copyright = "© 2024, 高槻市居合道連盟"
 enablerobotstxt = true
 languagecode = "en-us"
 paginate = 50
+timezone = "Asia/Tokyo"
 titlecasestyle = "Go"
 
 publishDir = "docs"
@@ -55,4 +56,3 @@ startlevel = 2
 
 [[module.imports]]
 path = "github.com/willfaught/paige"
-
