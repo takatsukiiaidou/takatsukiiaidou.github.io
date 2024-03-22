@@ -37,7 +37,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="http://localhost:1313/activity/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://takatsukiiaidou.github.io/activity/rss.xml" rel="self" type="application/rss+xml"/>
 
         
             <copyright>© 2024, 高槻市居合道連盟</copyright>
@@ -53,7 +53,7 @@
             <lastBuildDate>Sun, 01 Jan 2023 00:00:00 JST</lastBuildDate>
         
 
-        <link>http://localhost:1313/activity/</link>
+        <link>https://takatsukiiaidou.github.io/activity/</link>
 
         
 
@@ -98,7 +98,7 @@
                 
                     <description><![CDATA[<p>
 <span class="paige-image">
-<img  alt="Landscape"   class="object-fit-cover rounded-4"  crossorigin="anonymous"  fetchpriority="high"   height="600"   referrerpolicy="no-referrer"  sizes="(max-width: 576px) 550px, (max-width: 768px) 696px, (max-width: 992px) 936px, (max-width: 1200px) 1116px, (max-width: 1400px) 1296px, 1296px"  src="http://localhost:1313/photo-1490604001847-b712b0c2f967_15596602331231608852_hu3d03a01dcc18bc5be0e67db3d8d209a6_85609_1296x600_resize_q75_h2_box.bbb4ec976e4e64f631990ab80ba36c19fed9ef443a35629d4d809125a96f0b27.webp"  srcset="/photo-1490604001847-b712b0c2f967_15596602331231608852_hu3d03a01dcc18bc5be0e67db3d8d209a6_85609_32630f13f7f2c3d09cbdbaff9c433934.cb0933737662cae6dba4526830e75255d1593f26cb133f7f10c85711f71049ee.webp 550w, /photo-1490604001847-b712b0c2f967_15596602331231608852_hu3d03a01dcc18bc5be0e67db3d8d209a6_85609_aec945adef7c4dbde439123e3c9dfbd8.eaba2d1098d2484e311974c63bd09ab09fa14c448cf16f011fb666c6f16e3c9f.webp 696w, /photo-1490604001847-b712b0c2f967_15596602331231608852_hu3d03a01dcc18bc5be0e67db3d8d209a6_85609_7278527e3ef78044aa2c883b08297e98.7d9847a16351dbd66a740bd7d9496b94f544f5608ee0d979f1bbbfa96e613e9b.webp 936w, /photo-1490604001847-b712b0c2f967_15596602331231608852_hu3d03a01dcc18bc5be0e67db3d8d209a6_85609_ca0ef448678c70882b31ee5222bf75fc.d20465c3105d8bbfdeff47162caf4edaf418a5ea2372c57e85f8e0aeeb08bb76.webp 1116w, /photo-1490604001847-b712b0c2f967_15596602331231608852_hu3d03a01dcc18bc5be0e67db3d8d209a6_85609_7aa6a001dd7c2ab0406403f3dd9deaa7.ef5a5784ca27f5976c1682feed1a199456d035274d7a076049a5c8d883f9b75e.webp 1296w"   style="height: 20rem; width: 100%"    width="1296" >
+<img  alt="Landscape"   class="object-fit-cover rounded-4"  crossorigin="anonymous"  fetchpriority="high"   height="600"   referrerpolicy="no-referrer"  sizes="(max-width: 576px) 550px, (max-width: 768px) 696px, (max-width: 992px) 936px, (max-width: 1200px) 1116px, (max-width: 1400px) 1296px, 1296px"  src="https://takatsukiiaidou.github.io/photo-1490604001847-b712b0c2f967_15596602331231608852_hu3d03a01dcc18bc5be0e67db3d8d209a6_85609_1296x600_resize_q75_h2_box.bbb4ec976e4e64f631990ab80ba36c19fed9ef443a35629d4d809125a96f0b27.webp"  srcset="/photo-1490604001847-b712b0c2f967_15596602331231608852_hu3d03a01dcc18bc5be0e67db3d8d209a6_85609_32630f13f7f2c3d09cbdbaff9c433934.cb0933737662cae6dba4526830e75255d1593f26cb133f7f10c85711f71049ee.webp 550w, /photo-1490604001847-b712b0c2f967_15596602331231608852_hu3d03a01dcc18bc5be0e67db3d8d209a6_85609_aec945adef7c4dbde439123e3c9dfbd8.eaba2d1098d2484e311974c63bd09ab09fa14c448cf16f011fb666c6f16e3c9f.webp 696w, /photo-1490604001847-b712b0c2f967_15596602331231608852_hu3d03a01dcc18bc5be0e67db3d8d209a6_85609_7278527e3ef78044aa2c883b08297e98.7d9847a16351dbd66a740bd7d9496b94f544f5608ee0d979f1bbbfa96e613e9b.webp 936w, /photo-1490604001847-b712b0c2f967_15596602331231608852_hu3d03a01dcc18bc5be0e67db3d8d209a6_85609_ca0ef448678c70882b31ee5222bf75fc.d20465c3105d8bbfdeff47162caf4edaf418a5ea2372c57e85f8e0aeeb08bb76.webp 1116w, /photo-1490604001847-b712b0c2f967_15596602331231608852_hu3d03a01dcc18bc5be0e67db3d8d209a6_85609_7aa6a001dd7c2ab0406403f3dd9deaa7.ef5a5784ca27f5976c1682feed1a199456d035274d7a076049a5c8d883f9b75e.webp 1296w"   style="height: 20rem; width: 100%"    width="1296" >
 </span>
 </p>
 <p class="display-5 fw-bold h2 text-center">An advanced Hugo theme</p>
@@ -136,10 +136,10 @@
 </div>]]></description>
                 
 
-                <guid  isPermaLink="false" >tag:localhost:1313,2023-01-01:2023-01-01T00:00:00+09:00</guid>
+                <guid  isPermaLink="false" >tag:takatsukiiaidou.github.io,2023-01-01:2023-01-01T00:00:00+09:00</guid>
 
                 
-                    <link>http://localhost:1313/activity/sample/</link>
+                    <link>https://takatsukiiaidou.github.io/activity/sample/</link>
                 
 
                 
