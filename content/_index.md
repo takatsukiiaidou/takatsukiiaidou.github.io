@@ -34,9 +34,22 @@ title: "高槻市居合道連盟"
     </div>
 </div>
 
-<br>
-<p class="text-center">
-このサイトは <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> と Paige テーマで生成されています。
-</p>
-
 ---
+<table bgcolor='#f9f9ff' width='100%'>
+  <tr>
+    <td width='60%'> 
+      <small>
+      このサイトは <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> と Paige テーマで生成されています。
+      </small>
+    </td> 
+    <td> 
+      <small>
+      高槻市居合道連盟 <br>
+      　高槻市芝生町４丁目１－１(高槻市スポーツ団体協議会内) <br>
+      　TEL: 072-677-2285 / FAX: 072-677-2285 <br>
+      　eMail: takatsuki.sp.kyogikai@gmail.com 
+      </small>
+    </td>
+  </tr>
+</table>
+</center>
