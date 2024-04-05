@@ -44,7 +44,7 @@
 
     
 
-    <id>https://takatsukiiaidou.github.io/class/atom.xml</id>
+    <id>http://localhost:1313/class/atom.xml</id>
 
     
         
@@ -54,7 +54,7 @@
         
 
         
-            <link href="https://takatsukiiaidou.github.io/class/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="http://localhost:1313/class/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -64,7 +64,7 @@
         
 
         
-            <link href="https://takatsukiiaidou.github.io/class/" rel="alternate" type="text/html"/>
+            <link href="http://localhost:1313/class/" rel="alternate" type="text/html"/>
         
     
         
@@ -72,7 +72,7 @@
         
 
         
-            <link href="https://takatsukiiaidou.github.io/class/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="http://localhost:1313/class/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 

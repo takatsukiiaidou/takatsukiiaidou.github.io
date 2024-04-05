@@ -46,7 +46,7 @@
 
     
 
-    <id>tag:takatsukiiaidou.github.io,2024-03-23:2024-03-23T01:43:20+09:00</id>
+    <id>tag:localhost:1313,2024-03-23:2024-03-23T01:43:20+09:00</id>
 
     
         
@@ -56,7 +56,7 @@
         
 
         
-            <link href="https://takatsukiiaidou.github.io/publicrelations/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="http://localhost:1313/publicrelations/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -66,7 +66,7 @@
         
 
         
-            <link href="https://takatsukiiaidou.github.io/publicrelations/" rel="alternate" type="text/html"/>
+            <link href="http://localhost:1313/publicrelations/" rel="alternate" type="text/html"/>
         
     
         
@@ -74,7 +74,7 @@
         
 
         
-            <link href="https://takatsukiiaidou.github.io/publicrelations/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="http://localhost:1313/publicrelations/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
