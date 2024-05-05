@@ -41,7 +41,7 @@ title: "居合道を始めたい人は"
     <td> 090-7347-8147<br>（キタダ）<br><br> </td>
   </tr>
   <tr>
-    <td> 　無双直伝英信流北摂会　　<br><br><br> </td> 
+    <td> 　無双直伝英信流北摂会<br><a href="https://www.hokusetsukai.jp/">https://www.hokusetsukai.jp/</a><br><br> </td> 
     <td> 無双直伝英信流　　<br><br><br> </td> 
     <td> 月曜 18:00～21:30 <br> 木曜 18:30～21:30 <br> 土曜 13:00～17:00 <br> </td> 
     <td> 白川小学校（茨木市）<br> 市民体育館（茨木市）<br> 庄栄小学校（茨木市） <br> </td> 

@@ -21,6 +21,8 @@
 
     
 
+    
+
 
 
 
@@ -37,7 +39,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="http://localhost:1313/activity/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://takatsukiiaidou.github.io/activity/rss.xml" rel="self" type="application/rss+xml"/>
 
         
             <copyright>© 2024, 高槻市居合道連盟</copyright>
@@ -50,10 +52,10 @@
         
 
         
-            <lastBuildDate>Sat, 23 Mar 2024 01:14:52 JST</lastBuildDate>
+            <lastBuildDate>Tue, 23 Apr 2024 01:14:52 JST</lastBuildDate>
         
 
-        <link>http://localhost:1313/activity/</link>
+        <link>https://takatsukiiaidou.github.io/activity/</link>
 
         
 
