@@ -29,6 +29,8 @@
 
     
 
+    
+
 
 
 
@@ -50,7 +52,7 @@
 
     
 
-    <id>tag:takatsukiiaidou.github.io,2024-04-23:2024-04-23T01:14:52+09:00</id>
+    <id>tag:localhost:1313,2024-05-26:2024-05-26T01:14:52+09:00</id>
 
     
         
@@ -60,7 +62,7 @@
         
 
         
-            <link href="https://takatsukiiaidou.github.io/tags/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="http://localhost:1313/tags/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -70,7 +72,7 @@
         
 
         
-            <link href="https://takatsukiiaidou.github.io/tags/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/" rel="alternate" type="text/html"/>
+            <link href="http://localhost:1313/tags/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/" rel="alternate" type="text/html"/>
         
     
         
@@ -78,7 +80,7 @@
         
 
         
-            <link href="https://takatsukiiaidou.github.io/tags/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="http://localhost:1313/tags/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
@@ -93,7 +95,7 @@
     
 
     <title type="html"><![CDATA[活動報告 · タグ · 高槻市居合道連盟]]></title>
-    <updated>2024-04-23T01:14:52+09:00</updated>
+    <updated>2024-05-26T01:14:52+09:00</updated>
 
     
 </feed>
