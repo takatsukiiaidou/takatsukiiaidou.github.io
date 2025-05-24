@@ -1,1 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom"><id>https://takatsukiiaidou.github.io/class/atom.xml</id><link href="https://takatsukiiaidou.github.io/class/atom.xml" rel="self" type="application/atom+xml"/><link href="https://takatsukiiaidou.github.io/class/" rel="alternate" type="text/html"/><link href="https://takatsukiiaidou.github.io/class/rss.xml" rel="alternate" type="application/rss+xml"/><rights type="html">© 2024, 高槻市居合道連盟</rights><title type="html">居合道を始めたい人は · 高槻市居合道連盟</title><updated>2024-05-30T01:14:52+09:00</updated></feed>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed  xml:lang="en"  xmlns="http://www.w3.org/2005/Atom">
+    
+
+    
+
+    <id>https://takatsukiiaidou.github.io/class/atom.xml</id>
+
+    
+        
+
+        
+            
+        
+
+        
+            <link href="https://takatsukiiaidou.github.io/class/atom.xml" rel="self" type="application/atom+xml"/>
+        
+    
+        
+
+        
+            
+        
+
+        
+            <link href="https://takatsukiiaidou.github.io/class/" rel="alternate" type="text/html"/>
+        
+    
+        
+
+        
+
+        
+            <link href="https://takatsukiiaidou.github.io/class/rss.xml" rel="alternate" type="application/rss+xml"/>
+        
+    
+
+    
+
+    
+
+    
+        <rights type="html"><![CDATA[© 2024, 高槻市居合道連盟]]></rights>
+    
+
+    
+
+    <title type="html"><![CDATA[居合道を始めたい人は · 高槻市居合道連盟]]></title>
+    <updated>2025-05-18T00:00:00Z</updated>
+
+    
+</feed>
